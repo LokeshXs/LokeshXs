@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh Singh</h1>
 <h3 align="center">Crafting Exceptional Web Experiences</h3>
 
-- 🔭 I’m currently working on **GithubSnapshot Project**
+- 🔭 I’m currently working on **React Project**
 
 - 🌱 I’m currently learning **React**
 
