@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokesh Singh</h1>
-<h3 align="center">Crafting Exceptional Web Experiences</h3>
+<img height="200" src="https://github.com/LokeshXs/LokeshXs/blob/main/Make%20your%20README.png" alt="banner" />
 
 - 🔭 I’m currently working on **React Project**
 
