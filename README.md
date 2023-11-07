@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/LokeshXs/LokeshXs/blob/main/Make%20your%20README.png" alt="banner" />
 
-- 🔭 I’m currently working on **Blog a Application**
+- 🔭 I’m currently working on a **Blog Application**
 
 - 🌱 I’m currently learning **Node.js**
 
