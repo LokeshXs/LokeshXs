@@ -1,8 +1,8 @@
 <img width="100%" src="https://github.com/LokeshXs/LokeshXs/blob/main/Make%20your%20README.png" alt="banner" />
 
-- 🔭 I’m currently working on a **Blog Application**
+- 🔭 I’m currently working on a **Paytm Clone Web App**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **lokesh1129ece@gmail.com**
 
