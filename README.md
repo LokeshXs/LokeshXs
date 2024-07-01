@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/LokeshXs/LokeshXs/blob/main/Make%20your%20README.png" alt="banner" />
 
-- 🔭 I’m currently working on a **Paytm Clone Web App**
+- 🔭 I’m currently working on a **Web3.0 Youtube Thumbnail rater web app**
 
 - 🌱 I’m currently learning **Rust**
 
